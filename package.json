@@ -66,7 +66,7 @@
     "make-error": "1.x",
     "mkdirp": "0.x",
     "resolve": "1.x",
-    "semver": "^5.5",
+    "semver": "^5.7.1",
     "yargs-parser": "10.x"
   },
   "peerDependencies": {
