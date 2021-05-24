@@ -64,7 +64,7 @@
     "fast-json-stable-stringify": "2.x",
     "json5": "2.x",
     "make-error": "1.x",
-    "mkdirp": "0.x",
+    "mkdirp": "0.5.5",
     "resolve": "1.x",
     "semver": "^5.5",
     "yargs-parser": "10.x"
